@@ -1,6 +1,6 @@
 import React from 'react';
-import blue from './blue.js';
-import red from './red.js';
+import blue from '../data/blue';
+import red from '../data/red';
 
 export default class HelloWorld extends React.Component {
     constructor(props) {
